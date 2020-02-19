@@ -1,0 +1,32 @@
+.kata{
+    color: black;
+    border: 2px solid grey;
+}
+
+.welcome{
+    color: black;
+    border: 2px solid grey;
+}
+
+.login{
+    border-radius: 24px;
+}
+
+.buttoncustom{
+    /* width: 30px; */
+    outline: none !important;
+    background-color: khaki;
+    color:black;
+    font-size: 30px;
+    border-radius: 24px;
+    transition: 1s;
+    /* border: 2px solid  whitesmoke; */
+}
+
+.textFlow{
+    font-size: 50px ;
+    color: black;
+}
+.kotak{
+    border-radius: 50px;
+}
